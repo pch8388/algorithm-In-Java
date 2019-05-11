@@ -19,6 +19,6 @@ public class SequentialSearch {
     public static void main(String[] args) {
         int[] data = {2, 4, 7, 6, 3};
         System.out.println(search(data, 5, 3));
-        System.out.println(recursionSearch(data, 0, 5, 3));
+        System.out.println(recursionSearch(data, 0, 4, 3));
     }
 }
