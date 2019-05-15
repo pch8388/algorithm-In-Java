@@ -1,10 +1,10 @@
-package a_10039;
+package quiz.a_10039;
 
 import java.util.Scanner;
 
 public class algo10039 {
     public static void main(String[] args) {
-        int a[] = new int[5];
+        int[] a = new int[5];
 
         Scanner s = new Scanner(System.in);
 
