@@ -1,4 +1,4 @@
-package quiz.a_10890;
+package quiz.a_10809;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
